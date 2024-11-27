@@ -1,0 +1,24 @@
+"employee_id,first_name,last_name,email,phone_number,hire_date,position,status"
+"1,John,Doe,john.doe@example.com,123-456-7890,2023-01-15,Software Developer,Active"
+"2,Jane,Smith,jane.smith@example.com,234-567-8901,2022-05-20,Project Manager,Active"
+"3,Alice,Johnson,alice.johnson@example.com,345-678-9012,2021-07-10,UX Designer,On Leave"
+
+"timesheet_id,employee_id,date,start_time,end_time,hours_worked,overtime_hours"
+"1,1,2024-11-25,08:00:00,17:00:00,8.00,0.00"
+"2,2,2024-11-25,09:00:00,18:00:00,8.00,1.00"
+"3,3,2024-11-25,10:00:00,17:00:00,7.00,0.00"
+
+"attendance_id,employee_id,date,status"
+"1,1,2024-11-25,Present"
+"2,2,2024-11-25,Present"
+"3,3,2024-11-25,On Leave"
+
+"shift_id,shift_name,start_time,end_time"
+"1,Morning Shift,08:00:00,16:00:00"
+"2,Afternoon Shift,12:00:00,20:00:00"
+"3,Night Shift,22:00:00,06:00:00"
+
+"employee_id,shift_id,shift_date"
+"1,1,2024-11-25"
+"2,2,2024-11-25"
+"3,1,2024-11-25"
