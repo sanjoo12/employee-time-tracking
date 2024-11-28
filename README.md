@@ -30,4 +30,3 @@ Reports were developed to display essential information such as employee work ho
 
 7.	System Documentation and Final Review:
 The final task was to document the entire project, including the database schema, SQL queries, and the system’s functionality. This documentation ensures that the system can be easily understood, maintained, and modified in the future. A final review was conducted to ensure that the system was fully functional, accurate, and user-friendly.
-
